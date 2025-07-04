@@ -189,10 +189,6 @@ local default_config = {
     enable = true,
     frequency = 7,
   },
-  floaterm = {
-    height = 0.7,
-    width = 0.7,
-  },
 }
 
 function saga.setup(opts)
